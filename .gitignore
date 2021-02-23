@@ -9,6 +9,7 @@ __pycache__/
 *$py.class
 #arquivos de dados
 data/
+.vscode/
 # C extensions
 *.so
 
