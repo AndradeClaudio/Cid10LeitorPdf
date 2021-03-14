@@ -17,4 +17,4 @@ Links:
 https://pt.wikipedia.org/wiki/Express%C3%A3o_regular
 https://www.medicinanet.com.br/cid10.htm
 http://www2.datasus.gov.br/cid10/V2008/cid10.htm
-
+https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/saude-e-seguranca-do-trabalhador/dados-de-acidentes-do-trabalho/tabelas-cid-10
